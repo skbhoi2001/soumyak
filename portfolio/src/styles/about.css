@@ -1,13 +1,16 @@
 .about-section {
+  padding-top: 20px;
   width: 70%;
   margin: auto;
-  margin-top: 50px;
+  margin-top: 200px;
 }
-
+.about-head{
+  font-size: 35px;
+}
 .profile-pic {
   width: 280px;
   height: 40vh;
-  border-radius: 50%;
+  /* border-radius: 50%; */
 }
 .github-logo,
 .linkedin-logo {
@@ -28,10 +31,12 @@
 }
 @media (max-width: 768px) {
   .about-head {
-    padding-top: 30px;
+    padding-top: 35px;
+    text-align: center;
   }
   .profile-pic {
-    width: 200px;
+    margin: auto 0px auto 10px;
+    width: 90%;
     height: 35vh;
     border-radius: 50%;
   }

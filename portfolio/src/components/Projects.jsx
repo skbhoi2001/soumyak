@@ -11,23 +11,20 @@ const Projects = () => {
               <div class="card mb-4 box-shadow">
                 <img
                   className="project-image"
-                  src="https://i.ibb.co/GHFfYLG/Screenshot-960.png"
+                  src="https://github.com/skbhoi2001/Instagram_clone/raw/main/instagram_clone/images/home.png?raw=true"
                   alt=""
                 />
                 <div class="card-body">
-                  <h3>Premier league clone</h3>
-                  <p class="card-text">The Premier League, often referred to as the English Premier
-                    League or the EPL (legal name: The Football Association
-                    Premier League Limited), is the top level of the English
-                    football league system.
+                  <h3>INSTAGRAM_CLONE</h3>
+                  <p class="card-text">Instagram is an photo and video sharing social networking service founded by Kevin Systrom and Mike Krieger.It allows users to upload media that can be edited with filters and organized by hashtags and geographical tagging.
                   </p>
-
+                  <h5>React | Redux | Material UI | JSON</h5>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       <a
                         type="button"
                         class="btn btn-sm btn-outline-secondary"
-                        href="https://github.com/Mangeshbk/Premier-League-clone"
+                        href="https://github.com/skbhoi2001/Instagram_clone"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -37,22 +34,14 @@ const Projects = () => {
                       <a
                         type="button"
                         class="btn btn-sm btn-outline-secondary"
-                        href="https://cloning-premierleague.netlify.app/"
+                        href="https://happy-curran-36e035.netlify.app"
                         target="_blank"
                         rel="noreferrer"
                       >
                         Demo
                       </a>
                       &nbsp;&nbsp;
-                      <a
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                        href="https://medium.com/@uudaykuma/premier-league-clone-5a7a409a7e6e"
-                        target="_blank"
-                        rel="noreferrer"
-                      >
-                        Blog
-                      </a>
+                      
                     </div>
                   </div>
                 </div>
@@ -62,24 +51,22 @@ const Projects = () => {
               <div class="card mb-4 box-shadow">
                 <img
                   className="project-image"
-                  src="https://i.ibb.co/6DCh4Jz/Screenshot-959.png"
+                  src="https://user-images.githubusercontent.com/72690740/147086166-535f3590-d10c-4a59-9feb-85f57286516c.PNG"
                   alt=""
                 />
                 <div class="card-body">
-                  <h3>Kindemeal.my clone</h3>
-                  <p class="card-text">Kindmeal.my is a website that has a lot of information on
-                    everything that is related to food with a wide variety of
-                    information.
+                  <h3>PRACTO_CLONE</h3>
+                  <p class="card-text">Practo is revolutionizing healthcare by enabling consumers to find the best doctors, book instant appointments, consultations, and make better, more informed health decisions.
                     <br />
                     <br />
                   </p>
-
+                  <h5>HTML5 | CSS3 | JavaScript | JSON</h5>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       <a
                         type="button"
                         class="btn btn-sm btn-outline-secondary"
-                        href="https://github.com/abhi5iet/Ganga"
+                        href="https://github.com/skbhoi2001/practo_clone"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -89,22 +76,13 @@ const Projects = () => {
                       <a
                         type="button"
                         class="btn btn-sm btn-outline-secondary"
-                        href="https://kindmeal-clone.vercel.app/"
+                        href="http://proctoclone.atwebpages.com/"
                         target="_blank"
                         rel="noreferrer"
                       >
                         Demo
                       </a>
-                      &nbsp;&nbsp;
-                      <a
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                        href="https://uday97.hashnode.dev/kindmealmy-clone"
-                        target="_blank"
-                        rel="noreferrer"
-                      >
-                        Blog
-                      </a>
+                      
                     </div>
                   </div>
                 </div>
@@ -114,18 +92,16 @@ const Projects = () => {
               <div class="card mb-4 box-shadow">
                 <img
                   className="project-image"
-                  src="https://i.ibb.co/wW8XpGg/Screenshot-951.png"
+                  src="https://github.com/skbhoi2001/Instagram_clone/blob/main/instagram_clone/images/nifty.png?raw=true"
                   alt=""
                 />
                 <div class="card-body">
-                  <h3>Google's digital garage clone</h3>
-                  <p class="card-text">The Digital Garage is a non-profit nationwide programme from
-                    Google delivering free digital skills training via an online
-                    learning platform.
+                  <h3>NIFTYPM_CLONE</h3>
+                  <p class="card-text">Nifty is new-wave project management tool that reduces project development cycles and improves team productivity by combining collaboration, communication, and automation in one place.
                     <br />
                     <br />
                   </p>
-
+                  <h5>HTML5 | CSS3</h5>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       <a
@@ -145,17 +121,7 @@ const Projects = () => {
                         target="_blank"
                         rel="noreferrer"
                       >
-                        Demo
-                      </a>
-                      &nbsp;&nbsp;
-                      <a
-                        type="button"
-                        class="btn btn-sm btn-outline-secondary"
-                        href="https://uday97.hashnode.dev/google-digital-garage-clone"
-                        target="_blank"
-                        rel="noreferrer"
-                      >
-                        Blog
+                        Video
                       </a>
                     </div>
                   </div>

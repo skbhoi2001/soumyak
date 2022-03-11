@@ -4,7 +4,7 @@ import "../styles/skills.css"
 const Skills = () => {
     return (
         <div className="skill-section">
-            <h1>MY PROFICIENCY</h1>
+            <h1 className='skill-head' >MY PROFICIENCY</h1>
             <div className="album py-5">
                 <div className="container">
                     <div className="row">
@@ -56,7 +56,7 @@ const Skills = () => {
                             <img class="" src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="" width="100" height="100" />
                         </div>
                         <div class="col-lg-4 contact-info">
-                            <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="" width="100" height="100" />
+                            <img src="https://cdn.worldvectorlogo.com/logos/css3-1.svg" alt="" width="100" height="100" />
                         </div>
                         <div class="col-lg-4 contact-info">
                             <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="" width="100" height="100" />
@@ -68,7 +68,7 @@ const Skills = () => {
                             <img src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" alt="" width="100" height="100" />
                         </div>
                         <div class="col-lg-4 contact-info">
-                            <img src="https://material-ui.com/static/logo.png" alt="" width="100" height="100" />
+                            <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="" width="100" height="100" />
                         </div>
                         <div class="col-lg-4 contact-info">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="" width="100" height="100" />
