@@ -34,7 +34,7 @@ const Projects = () => {
                       <a
                         type="button"
                         class="btn btn-sm btn-outline-secondary"
-                        href="https://happy-curran-36e035.netlify.app"
+                        href="https://instaclonesrc.netlify.app/"
                         target="_blank"
                         rel="noreferrer"
                       >
