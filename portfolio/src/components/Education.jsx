@@ -4,7 +4,7 @@ export const Education = () => {
   return (
    <div className='contain' >
         <div className='education' >
-        <h1 style={{textAlign:"center"}} >Education</h1><br/>
+        <h1 style={{textAlign:"center"}} >EDUCATION</h1><br/>
         <div>
             <h3>Masai School, Bangalore</h3>
             <p>April-2020 to Present</p>

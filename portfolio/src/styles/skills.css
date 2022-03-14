@@ -8,7 +8,8 @@ padding: 20px;
 font-weight: 400;
 }
 .skill-head{
-  font-size: 35px;
+  text-align: center;
+  padding: 5%;
 }
 .skills-logo {
   background: #46b2e0;
