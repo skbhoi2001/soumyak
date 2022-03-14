@@ -30,6 +30,9 @@ const Navbar = () => {
               <a className="nav-link" onClick={hadnleScrolling} href="#skills">Skills</a>
             </li>
             <li className="nav-item">
+              <a className="nav-link" onClick={hadnleScrolling} href="#education">Education</a>
+            </li>
+            <li className="nav-item">
               <a className="nav-link" onClick={hadnleScrolling} href="#projects">Projects</a>
             </li>
             <li className="nav-item">

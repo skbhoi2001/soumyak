@@ -1,6 +1,7 @@
 import React from 'react'
 import About from './About'
 import Contact from './Contact'
+import { Education } from './Education'
 import Header from './Header'
 import Navbar from './Navbar'
 import Projects from './Projects'
@@ -18,6 +19,9 @@ const LandingPage = () => {
             </section>
             <section id="skills">
                 <Skills />
+            </section>
+            <section id='education' >
+                <Education/>
             </section>
             <section id="projects">
                 <Projects />
