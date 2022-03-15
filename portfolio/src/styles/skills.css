@@ -58,3 +58,13 @@ font-weight: 400;
 .t-s-heading{
   padding: 20px;
 }
+.tech_image{
+  margin: 5%;
+}
+.tech_image_last{
+  margin: 5%;
+  height: 100px;
+}
+.card{
+  height: 300px;
+}

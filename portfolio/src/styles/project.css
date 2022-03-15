@@ -1,6 +1,7 @@
 .project-image {
-  height: 225px;
-  width: 100%;
+  height: 200px;
+  width: 90%;
+  margin: 5%;
   display: block;
 }
 .project-section{
@@ -9,4 +10,10 @@
 .project-section>h1{
   text-align: center;
   padding: 5%;
+}
+.proj>div{
+  border: 1px solid rgb(219, 219, 219);
+}
+.proj>div:hover{
+  box-shadow: 2px 2px 5px 2px gray;
 }

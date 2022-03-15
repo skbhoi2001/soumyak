@@ -13,7 +13,7 @@ const About = () => {
                     <div className='links' >
                     <a href="https://github.com/skbhoi2001" rel="noreferrer" target="_blank" ><i class="fab fa-github fa-2x github-logo"></i></a>
                     <a href="https://www.linkedin.com/in/soumyak-kumar-bhoi-3b73a4184/" rel="noreferrer" target="_blank" ><i class="fab fa-linkedin-in fa-2x linkedin-logo"></i></a>
-                    <a className="resumes" href="https://drive.google.com/file/d/1Me0ppnBHdL1_awIlEwKoDD6NGMSu8xEx/view?usp=sharing" target="_blank" rel="noreferrer">Resume <span className="donld-icon"><i class="fas fa-download"></i></span></a>
+                    <button className="resumes" target="_blank" rel="noreferrer"><a href="https://drive.google.com/file/d/1Me0ppnBHdL1_awIlEwKoDD6NGMSu8xEx/view?usp=sharing" target="_blank" rel="noreferrer" style={{letterSpacing:'2px'}}>Resume <span className="donld-icon"><i class="fas fa-download"></i></span></a></button>
                     </div>
                 </div>
             </div>
