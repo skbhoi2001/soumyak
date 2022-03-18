@@ -56,7 +56,7 @@ const Projects = () => {
                 />
                 <div class="card-body">
                   <h3>PRACTO_CLONE</h3>
-                  <p class="card-text">An Health Sector E-Commerse Website Was Built With All Features, Like, Searching For The Product, Adding To Cart, Login-Sign Up , Making Purchase And Payment. Team Of 3.
+                  <p class="card-text">An  E-Commerse Website Was Built With All Features, Like, Searching For The Product, Adding To Cart, Login-Sign Up , Making Purchase And Payment. Team Of 3.
                     <br />
                     <br />
                   </p>
@@ -92,22 +92,22 @@ const Projects = () => {
               <div class=" mb-4 box-shadow">
                 <img
                   className="project-image"
-                  src="https://github.com/skbhoi2001/Instagram_clone/blob/main/instagram_clone/images/nifty.png?raw=true"
+                  src="https://github.com/skbhoi2001/Amazon-clone/blob/development/images/landing.png?raw=true"
                   alt=""
                 />
                 <div class="card-body">
-                  <h3>NIFTYPM_CLONE</h3>
-                  <p class="card-text">A resposive static clone where the client can ready to see various pages with the particular route with any screen size.Team of 3.
+                  <h3>Amazon_Clone</h3>
+                  <p class="card-text">End to end E-commerce website with having functionality like Login/Register, View Home Page, Prducts with channel, search,view,add item to truck, address page, installment page and checkout page.Team of 3.
                     <br />
                     <br />
                   </p>
-                  <h5>HTML5 | CSS3</h5>
+                  <h5>React | Redux | Style Components | JSON</h5>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       <a
                         type="button"
                         class="btn btn-sm btn-outline-secondary"
-                        href="https://github.com/TusharTaral/beas_Learndigital/tree/master/final"
+                        href="https://github.com/skbhoi2001/Amazon-clone"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -117,11 +117,11 @@ const Projects = () => {
                       <a
                         type="button"
                         class="btn btn-sm btn-outline-secondary"
-                        href=""
+                        href="https://amazonclonerass.netlify.app/"
                         target="_blank"
                         rel="noreferrer"
                       >
-                        Video
+                        Demo
                       </a>
                     </div>
                   </div>
